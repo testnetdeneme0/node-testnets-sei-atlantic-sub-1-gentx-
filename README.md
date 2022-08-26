@@ -87,4 +87,3 @@ seid add-genesis-account WalletName 10000000usei
 ![image](https://user-images.githubusercontent.com/73015593/186823482-8c37f3b3-7f2e-4276-a1d3-caadda17c0d7.png)
 
 ## Ardından new pull request seçeneğini seçtikten sonra create pull request seçeneğini seçiyoruz ve PR gönderiyoruz.
-![image](https://user-images.githubusercontent.com/73015593/186836085-32d90dfa-8a75-4a67-86e9-4bc1c0e150ac.png)
